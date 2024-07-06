@@ -1,6 +1,10 @@
 # MarketingAnalytics
 Conversions and Marketing Dashboard: This project involves querying and building a bi-annual revenue report for a marketing company and their streamlines of impressions.
 
+
+![image](https://github.com/Aesenaliev/MarketingAnalytics/assets/147550215/aef7925f-b755-44b4-8f4d-a2a1672532b3)
+** Screenshot of the report. **
+
 ## Identify Business Questions
 In this project, I aimed on showcasing and briefing a marketing companies conversion rates and profits for a 6 month time period.
 Some questions I aimed on answering was:
