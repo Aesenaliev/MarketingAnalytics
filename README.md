@@ -5,13 +5,13 @@ Conversions and Marketing Dashboard: This project involves querying and building
 In this project, I aimed on showcasing and briefing a marketing companies conversion rates and profits for a 6 month time period.
 Some questions I aimed on answering was:
 
--- 1. Which channel provides the best return on investment (ROI)?
--- 2. Which marketing channel has the highest average conversion rate?
--- 3. How does the cost per conversion vary across different channels?
--- 4. Which channel has the lowest cost per click (CPC)?
--- 5. How does the conversion rate change with increasing campaign costs?
--- 6. Are there any trends in conversion rates over time for specific channels?
--- 7. What is the overall trend in revenue generation over the six months?
+-- 1. Which channel provides the best return on investment (ROI)? <br />
+-- 2. Which marketing channel has the highest average conversion rate? <br />
+-- 3. How does the cost per conversion vary across different channels? <br />
+-- 4. Which channel has the lowest cost per click (CPC)? <br /> 
+-- 5. How does the conversion rate change with increasing campaign costs? <br />
+-- 6. Are there any trends in conversion rates over time for specific channels? <br />
+-- 7. What is the overall trend in revenue generation over the six months? <br />
 
 ## Collect and Store Data
 To collect and store data, I developed a fictional dataset about a marketing company from ChatGPT. I then stored this dataset in a csv document, connecting it to a SQL Server Database.
@@ -28,13 +28,13 @@ I then visualized the data in PowerBI. I made multiple visualizations showing th
 ## Conclusion
 From the analytics and visualizations, I could now answer the key business questions. 
 
--- 1. Email is seen with the best ROI, followed by Search Engine, Display Ads, and finally Social Media. Investment gains favorably compared to cost for email.
--- 2. The marketing channel with the highest average conversion rate is Email.
--- 3. Email had the lowest cost per conversion rate across the channels.
--- 4. The lowest cost per click by channel is Display Ads.
--- 5. The conversions rates tend to the best when the cost for deployment was around $500-999. When the cost was greater the conversion rates were lower, but that may be skewed due to the little volume of deployment attempts at >$1000.
--- 6. Conversion rates were better over time for display ads, worse for social media, and stayed the same for email and search engine.
--- Email and search engine did get better around month 5 and 4, respectfully, but returned to its original conversion rate after the 6th month.
--- 7. Profit has remained relatively the same, but in particular month 5 was a really good month. $225,000 in profit.
+-- 1. Email is seen with the best ROI, followed by Search Engine, Display Ads, and finally Social Media. Investment gains favorably compared to cost for email. <br />
+-- 2. The marketing channel with the highest average conversion rate is Email. <br />
+-- 3. Email had the lowest cost per conversion rate across the channels. <br />
+-- 4. The lowest cost per click by channel is Display Ads. <br />
+-- 5. The conversions rates tend to the best when the cost for deployment was around $500-999. When the cost was greater the conversion rates were lower, but that may be skewed due to the little volume of deployment attempts at >$1000. <br />
+-- 6. Conversion rates were better over time for display ads, worse for social media, and stayed the same for email and search engine. <br />
+-- Email and search engine did get better around month 5 and 4, respectfully, but returned to its original conversion rate after the 6th month. <br />
+-- 7. Profit has remained relatively the same, but in particular month 5 was a really good month. $225,000 in profit. <br />
 
 
