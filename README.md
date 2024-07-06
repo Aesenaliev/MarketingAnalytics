@@ -2,7 +2,7 @@
 Conversions and Marketing Dashboard: This project involves querying and building a bi-annual revenue report for a marketing company and their streamlines of impressions.
 
 
-![image](https://github.com/Aesenaliev/MarketingAnalytics/assets/147550215/aef7925f-b755-44b4-8f4d-a2a1672532b3)
+![image](https://github.com/Aesenaliev/MarketingAnalytics/assets/147550215/aef7925f-b755-44b4-8f4d-a2a1672532b3) <br />
 ** Screenshot of the report. **
 
 ## Identify Business Questions
