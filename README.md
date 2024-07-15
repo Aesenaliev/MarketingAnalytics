@@ -4,10 +4,12 @@ Conversions and Marketing Dashboard: This project involves querying and building
 ### Update 7.14.24
 - I have updated the piechart to a barchart. I learned in a book to avoid pie charts because it is hard to read differences, so I went ahead and changed it to a understandable bar chart.
 - I also have updated the colors to the overall report, changing the "cost" to an orange, signifying loss.
+- I added a slicer for valuable, individual channel insights.
 
-  If you have any comments or concerncs, please feel free to reach out!
+  _If you have any comments or concerncs, please feel free to reach out!_
 
-![image](https://github.com/user-attachments/assets/b409a955-7359-415e-95d4-6a0f2fe66d53)
+![image](https://github.com/user-attachments/assets/8ffd24b1-2c4f-4d32-98b6-b49b95c9c93c)
+
  <br />
 _Screenshot of the updated report._
 
