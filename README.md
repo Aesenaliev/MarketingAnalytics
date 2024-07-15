@@ -11,7 +11,7 @@ Conversions and Marketing Dashboard: This project involves querying and building
 ![image](https://github.com/user-attachments/assets/8ffd24b1-2c4f-4d32-98b6-b49b95c9c93c)
 
  <br />
-_Screenshot of the updated report._
+_ Screenshot of the updated report. _
 
 ## Identify Business Questions
 In this project, I aimed on showcasing and briefing a marketing companies conversion rates and profits for a 6 month time period.
