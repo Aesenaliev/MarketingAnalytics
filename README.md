@@ -1,8 +1,14 @@
 # MarketingAnalytics
 Conversions and Marketing Dashboard: This project involves querying and building a bi-annual revenue report for a marketing company and their streamlines of impressions.
 
+### Update 7.14.24
+- I have updated the piechart to a barchart. I learned in a book to avoid pie charts because it is hard to read differences, so I went ahead and changed it to a understandable bar chart.
+- I also have updated the colors to the overall report, changing the "cost" to an orange, signifying loss.
 
-![image](https://github.com/Aesenaliev/MarketingAnalytics/assets/147550215/aef7925f-b755-44b4-8f4d-a2a1672532b3) <br />
+  If you have any comments or concerncs, please feel free to reach out!
+
+![image](https://github.com/user-attachments/assets/b409a955-7359-415e-95d4-6a0f2fe66d53)
+ <br />
 _Screenshot of the updated report._
 
 ## Identify Business Questions
